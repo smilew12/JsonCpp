@@ -8,7 +8,7 @@ using namespace std;
 //从字符串中读取JSON
 void readStrJson() 
 {
-	//字符串
+	//字符串.
   const char* str = 
       "{\"praenomen\":\"Gaius\",\"nomen\":\"Julius\",\"cognomen\":\"Caezar\","
       "\"born\":-100,\"died\":-44}";
