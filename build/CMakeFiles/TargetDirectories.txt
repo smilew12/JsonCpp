@@ -1,0 +1,3 @@
+/mnt/hgfs/G/workspace/linux/JsonCpp/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/G/workspace/linux/JsonCpp/build/CMakeFiles/jsoncpp.dir
+/mnt/hgfs/G/workspace/linux/JsonCpp/build/CMakeFiles/edit_cache.dir
